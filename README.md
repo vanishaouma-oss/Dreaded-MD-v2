@@ -1,4 +1,4 @@
-# Dreaded MD v2 🤖
+# Benedict 🤖
 
 A powerful WhatsApp bot with games, moderation, and entertainment commands.
 
@@ -39,7 +39,7 @@ A powerful WhatsApp bot with games, moderation, and entertainment commands.
   - `SESSION_ID` - Auto-generated after first run
 - Start the server
 
-### 3. Add to Luna Eclipse
+### 3. Add to Your Chat
 - Make the bot an admin in your WhatsApp group
 - Type `.alive` or `.menu` to test
 - Start using commands!
@@ -51,6 +51,7 @@ PAIR_CODE=your_8_digit_code
 SESSION_ID=will_be_auto_generated
 PREFIX=.
 OWNER_NUMBER=your_number
+BOT_NAME=Benedict
 ```
 
 ## Installation
@@ -105,4 +106,4 @@ For issues and support, visit our pairing site or create an issue in this reposi
 
 ---
 
-**Made with ❤️ by Dreaded Community**
+**Made with ❤️ by Vanisha & Community**
